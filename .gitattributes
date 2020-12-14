@@ -1,0 +1,4 @@
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.pcl filter=lfs diff=lfs merge=lfs -text
