@@ -1,0 +1,8 @@
+Kononova-*
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.log
+*.bat
+*.sts
+.idea
